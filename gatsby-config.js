@@ -16,7 +16,10 @@ module.exports = {
     siteImage: `/banner.jpg`,
     author: `@lekoarts_de`,
   },
-  plugins: [
+    plugins: ['gatsby-plugin-netlify'],
+}
+
+    plugins: [
     {
       resolve: `@lekoarts/gatsby-theme-cara`,
       // See the theme's README for all available options

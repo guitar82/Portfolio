@@ -17,7 +17,7 @@ module.exports = {
     author: `@lekoarts_de`,
   },
     plugins: ['gatsby-plugin-netlify'],
-}
+
 
     plugins: [
     {
